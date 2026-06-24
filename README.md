@@ -17,7 +17,7 @@ The code was developed and tested under
 ## Installation
 This repository contains only a notebook with core functions in `.../Core` folder.
 
-The GUI distributed in releases does not require installation. It can be run as a regular Mathematica Notebook (.nb), which contains a dynamical content and requires enabling upon the start:
+The GUI distributed in [releases](https://github.com/vasilsaroka/NanographenesBuilder/releases) does not require installation. It can be run as a regular Mathematica Notebook (.nb), which contains a dynamical content and requires enabling upon the start:
 <p align="center">
 <img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/Enable_Dynamics_button.png" alt="Enable_Dynamics_button" width="1000"/>
 </p>
