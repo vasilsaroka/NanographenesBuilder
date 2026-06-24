@@ -7,13 +7,17 @@
 
 
 # NanographenesBuilder
-Wolfram Mathematica GUI for building benzenoid hydrocarbons with on-the-fly graph theory analysis and export to .XYZ file
+Wolfram Mathematica graphical user interface (GUI) or mini-app for building benzenoid hydrocarbons with on-the-fly graph theory analysis and export to .XYZ file
 
+## Requirements
+The code was developed and tested under
+ - OS: Microsoft Windows 11 Home
+ - Mathematica 14.2.1 for Microsoft Windows (64-bit) (March 17, 2025).
 
-## Installation guide
+## Installation
 This repository contains only a notebook with core functions in `.../Core` folder.
 
-The GUI distributed in releases does not require installation as such. It can be run as a regular Mathematica Notebook (.nb), which contains a dynamical content and requires enabling upon the start:
+The GUI distributed in releases does not require installation. It can be run as a regular Mathematica Notebook (.nb), which contains a dynamical content and requires enabling upon the start:
 <p align="center">
 <img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/Enable_Dynamics_button.png" alt="Enable_Dynamics_button" width="1000"/>
 </p>
@@ -25,16 +29,16 @@ The starting screen of the GUI looks as follows:
 <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WelcomeScreen.png" alt="Welcome_screen" width="400"/>
 </p>
 
-The basic use and idea behind are explained in details in [this LinkedIn article](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and [Wolfram Community post](https://community.wolfram.com/groups/-/m/t/3737934). The quick start is demonstrated here
+The basic use and idea behind are explained in details in the LinkedIn article [A computational essay on topological frustration and graph theory](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and [Wolfram Community post](https://community.wolfram.com/groups/-/m/t/3737934). The latter contains the built-in GUI in the relevant section "Wolfram Language app". A quick start is
 <p align="center">
 <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder5g.gif" alt="Basic_use" width="400"/>
 </p>
 
 ## WLJS Notebooks
-   Thanks to [@JerryI](https://github.com/JerryI/) we have also a [WLJS version](https://wljs.io/) of GUI, which is slightly faster and dynamically more agile. It has also such nice features as zooming of the basic canvas. 
+   Thanks to [@JerryI](https://github.com/JerryI/) we have also a [WLJS version](https://wljs.io/) of the GUI, which is slightly faster and dynamically more agile. It has also such nice features as zooming of the basic canvas. 
    
    ### WLJS Notebook Demo
-   Here is the demo produced half-way through WLJS version development:
+   The demo produced half-way through WLJS version development by [@JerryI](https://github.com/JerryI/):
    <p align="center">
    <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WLJS_promo.gif" alt="WLJS_promo" width="800"/>
    </p>
