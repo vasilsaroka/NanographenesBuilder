@@ -7,19 +7,23 @@
 
 
 # NanographenesBuilder
-Wolfram Language GUI for building benzenoid hydrocarbons with on-the-fly graph theory analysis and available export to .XYZ file
+Wolfram Mathematica GUI for building benzenoid hydrocarbons with on-the-fly graph theory analysis and export to .XYZ file
 
 
 ## Installation guide
-The GUI does not require any installation as such. It can be run as Wolfram Mathematica Notebook (.nb). The distributed notebook contains a dynamical content, therefore, it requires enabling upon the start.
+The GUI does not require any installation as such. It can be run as Mathematica Notebook. The distributed notebook (.nb) contains a dynamical content, which requires enabling upon the start.
 
-Once dynamical content is enabled, the GUI must become active and responsive out-of-the-box.
+Once dynamical content is enabled, the GUI must be active and responsive out-of-the-box.
+The repository contains only a notebook in (.../Core) folder with core functions.
 
 ## Demo
-### Basic response loop
+The starting screen of the GUI looks as follows:
+
+The basic use is demonstrated here
+ [<img align="right" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Pictures/Logo_TBpack.png" alt="TBpack Logo" width="125"/>]([https://www.tbpack.co.uk/](https://sites.google.com/view/vasilsaroka/home))
 
 ## WLJS Notebooks
-   Thanks to @ The [Electron application](https://github.com/JerryI/wolfram-js-frontend/releases) is an open-source javascript-based cross-platform graphical user interface for running Wolfram Language code via a [Wolfram Engine](https://www.wolfram.com/engine/). It is an actively developed [project](https://github.com/JerryI/wolfram-js-frontend) that is getting popularity due to its simplicity and ability to combine Wolfram Language with Javescript and Markdown. While WLJS notebooks are not superior to the original Mathematica notebooks, they do have some features such as gpt-based copilot, powerful command palette system, and enhanced animation capbilitites that may transform them into a useful companion if not a real contender of original notebooks. 
+   Thanks to @JerryI we have also a [WLJS version of NanographenesBuilder](https://wljs.io/blog/graphene-app), which is slightly faster dynamically and has such nice features as zooming of the basic canvas. 
    
 
    ### WLJS Notebook Demo
