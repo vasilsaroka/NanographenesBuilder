@@ -11,23 +11,33 @@ Wolfram Mathematica GUI for building benzenoid hydrocarbons with on-the-fly grap
 
 
 ## Installation guide
-The GUI does not require any installation as such. It can be run as Mathematica Notebook. The distributed notebook (.nb) contains a dynamical content, which requires enabling upon the start.
+This repository contains only a notebook with core functions in `.../Core` folder.
+
+The GUI distributed in releases does not require installation as such. It can be run as a regular Mathematica Notebook (.nb), which contains a dynamical content and requires enabling upon the start:
+
+<img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/Enable_Dynamics_button.png" alt="Enable_Dynamics_button" width="1000"/>
 
 Once dynamical content is enabled, the GUI must be active and responsive out-of-the-box.
-The repository contains only a notebook in (.../Core) folder with core functions.
 
 ## Demo
 The starting screen of the GUI looks as follows:
-
-The basic use is demonstrated here
- [<img align="right" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Pictures/Logo_TBpack.png" alt="TBpack Logo" width="125"/>]([https://www.tbpack.co.uk/](https://sites.google.com/view/vasilsaroka/home))
-
+<p align="center">
+<img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WelcomeScreen.png" alt="Welcome_screen" width="400"/>
+</p>
+The basic use and idea behind are explained in details in [this LinkedIn article](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and [Wolfram Community post](https://community.wolfram.com/groups/-/m/t/3737934). The quick start is demonstrated here
+<p align="center">
+<img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder5g.gif" alt="Basic_use" width="400"/>
+</p>
 ## WLJS Notebooks
-   Thanks to @JerryI we have also a [WLJS version of NanographenesBuilder](https://wljs.io/blog/graphene-app), which is slightly faster dynamically and has such nice features as zooming of the basic canvas. 
+   Thanks to [@JerryI](https://github.com/JerryI/) we have also a [WLJS version](https://wljs.io/) of NanographenesBuilder, which is slightly faster and dynamically more agile. It has also such nice features as zooming of the basic canvas. 
    
 
    ### WLJS Notebook Demo
-
+   Here is the demo produced half-way through WLJS version development:
+   <p align="center">
+   <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WLJS_promo.gif" alt="WLJS_promo" width="800"/>
+   </p>
+   For the final version, please, see the blog-post [Building an Interactive Nanographene Constructor](https://wljs.io/blog/graphene-app/)
 
 ## Supporting the project
    We believe that everyone deserves access to reliable, science-based knowledge. That's why we keep our product accessible to all, no matter their location or financial situation. By doing this, we empower more people to educate themselves and contribute to global wellbeing. Unlike major corporations, we are not backed by trillionaire owners; our work is entirely powered by our curiousity. Therefore, your donations are really appreciated for keeping us going. Anyone [making a donation](https://paypal.me/vasilsaroka?locale.x=en_GB) is entitled to request a product without watermarks. 
