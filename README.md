@@ -21,13 +21,13 @@ Once dynamical content is enabled, the GUI must be active and responsive out-of-
 
 ## Demo
 The starting screen of the GUI looks as follows:
-
+<p align="center">
 <img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WelcomeScreen.png" alt="Welcome_screen" width="400"/>
-
-The basic use is demonstrated here
-
+</p>
+The basic use and idea behind are explained in details in [this LinkedIn article](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and [Wolfram Community post](https://community.wolfram.com/groups/-/m/t/3737934). The quick start is demonstrated here
+<p align="center">
 <img align="center" src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder5g.gif" alt="Basic_use" width="400"/>
-
+</p>
 ## WLJS Notebooks
    Thanks to [@JerryI](https://github.com/JerryI/) we have also a [WLJS version](https://wljs.io/) of NanographenesBuilder, which is slightly faster and dynamically more agile. It has also such nice features as zooming of the basic canvas. 
    
