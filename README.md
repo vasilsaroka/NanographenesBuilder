@@ -29,7 +29,7 @@ The starting screen of the GUI looks as follows:
 <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WelcomeScreen.png" alt="Welcome_screen" width="400"/>
 </p>
 
-The basic use and idea behind are explained in details in the LinkedIn article [A computational essay on topological frustration and graph theory](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and [Wolfram Community post](https://community.wolfram.com/groups/-/m/t/3737934). The latter contains the built-in GUI in the relevant section "Wolfram Language app". A quick start is
+The basic use and idea behind are explained in detail in the LinkedIn article [A computational essay on topological frustration and graph theory](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and a cross-post on Wolfram Community [Graph-theoretic topological frustration in nanographenes: matchings, deficit, and decomposition](https://community.wolfram.com/groups/-/m/t/3737934). The latter contains the built-in GUI in the relevant section "Wolfram Language app". A quick start is
 <p align="center">
 <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder5g.gif" alt="Basic_use" width="400"/>
 </p>
