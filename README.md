@@ -33,7 +33,7 @@ The basic use and idea behind are explained in detail in the LinkedIn article [A
 
 As a quick start, let us build and analyse an extended Clar's goblet reported in [J. Am. Chem. Soc. **147**, 39067–39071 (2025)](https://doi.org/10.1021/jacs.5c07588):
 <p align="center">
-<img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder_promo_croped5.gif" alt="Basic_use" width="400"/>
+<img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder_promo.gif" alt="Basic_use" width="400"/>
 </p>
 
 ## WLJS Notebooks
