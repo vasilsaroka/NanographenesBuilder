@@ -29,9 +29,11 @@ The starting screen of the GUI looks as follows:
 <img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/WelcomeScreen.png" alt="Welcome_screen" width="400"/>
 </p>
 
-The basic use and idea behind are explained in detail in the LinkedIn article [A computational essay on topological frustration and graph theory](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and a cross-post on Wolfram Community [Graph-theoretic topological frustration in nanographenes: matchings, deficit, and decomposition](https://community.wolfram.com/groups/-/m/t/3737934). The latter contains the built-in GUI in the relevant section "Wolfram Language app". A quick start is
+The basic use and idea behind are explained in detail in the LinkedIn article [A computational essay on topological frustration and graph theory](https://www.linkedin.com/pulse/computational-essay-topological-frustration-graph-theory-vasil-saroka-epcvf/) and a cross-post on Wolfram Community [Graph-theoretic topological frustration in nanographenes: matchings, deficit, and decomposition](https://community.wolfram.com/groups/-/m/t/3737934). The latter contains the built-in GUI in the relevant section "Wolfram Language app". 
+
+As a quick start, let us build and analyse an extended Clar's goblet reported in [J. Am. Chem. Soc. **147**, 39067–39071 (2025)](https://doi.org/10.1021/jacs.5c07588):
 <p align="center">
-<img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder5g.gif" alt="Basic_use" width="400"/>
+<img src="https://github.com/vasilsaroka/NanographenesBuilder/blob/main/Demo/NanographenesBuilder_promo_croped5.gif" alt="Basic_use" width="400"/>
 </p>
 
 ## WLJS Notebooks
